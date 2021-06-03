@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="ParticipanteWS">
+      <implementation-class>services.ParticipanteWS</implementation-class>
+    </service>
+    <service name="CompromissoWS">
+      <implementation-class>services.CompromissoWS</implementation-class>
+    </service>
+    <service name="LocalWS">
+      <implementation-class>services.LocalWS</implementation-class>
+    </service>
+    <service name="ContatoWS">
+      <implementation-class>services.ContatoWS</implementation-class>
+    </service>
+  </services>
+  <clients/>
+</jax-ws>
